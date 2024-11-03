@@ -1,0 +1,7 @@
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Списки смежных вершин графа\Списки смежных вершин графа\bin\Debug\Списки смежных вершин графа.exe.config
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Списки смежных вершин графа\Списки смежных вершин графа\bin\Debug\Списки смежных вершин графа.exe
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Списки смежных вершин графа\Списки смежных вершин графа\bin\Debug\Списки смежных вершин графа.pdb
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Списки смежных вершин графа\Списки смежных вершин графа\obj\Debug\Списки смежных вершин графа.csproj.AssemblyReference.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Списки смежных вершин графа\Списки смежных вершин графа\obj\Debug\Списки смежных вершин графа.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Списки смежных вершин графа\Списки смежных вершин графа\obj\Debug\Списки смежных вершин графа.exe
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Списки смежных вершин графа\Списки смежных вершин графа\obj\Debug\Списки смежных вершин графа.pdb

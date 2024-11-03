@@ -1,0 +1,7 @@
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Матрица инцидентности графа\Матрица инцидентности графа\bin\Debug\Матрица инцидентности графа.exe.config
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Матрица инцидентности графа\Матрица инцидентности графа\bin\Debug\Матрица инцидентности графа.exe
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Матрица инцидентности графа\Матрица инцидентности графа\bin\Debug\Матрица инцидентности графа.pdb
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Матрица инцидентности графа\Матрица инцидентности графа\obj\Debug\Матрица инцидентности графа.csproj.AssemblyReference.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Матрица инцидентности графа\Матрица инцидентности графа\obj\Debug\Матрица инцидентности графа.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Матрица инцидентности графа\Матрица инцидентности графа\obj\Debug\Матрица инцидентности графа.exe
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Матрица инцидентности графа\Матрица инцидентности графа\obj\Debug\Матрица инцидентности графа.pdb

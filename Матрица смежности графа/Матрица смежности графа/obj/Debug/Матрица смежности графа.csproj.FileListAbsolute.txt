@@ -1,0 +1,7 @@
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Матрица смежности графа\Матрица смежности графа\obj\Debug\Матрица смежности графа.csproj.AssemblyReference.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Матрица смежности графа\Матрица смежности графа\obj\Debug\Матрица смежности графа.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Матрица смежности графа\Матрица смежности графа\bin\Debug\Матрица смежности графа.exe.config
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Матрица смежности графа\Матрица смежности графа\bin\Debug\Матрица смежности графа.exe
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Матрица смежности графа\Матрица смежности графа\bin\Debug\Матрица смежности графа.pdb
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Матрица смежности графа\Матрица смежности графа\obj\Debug\Матрица смежности графа.exe
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Матрица смежности графа\Матрица смежности графа\obj\Debug\Матрица смежности графа.pdb

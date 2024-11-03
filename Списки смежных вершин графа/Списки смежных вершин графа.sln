@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Списки смежных вершин графа", "Списки смежных вершин графа\Списки смежных вершин графа.csproj", "{84E6BFF9-06C7-4285-A96F-65065EC2523D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84E6BFF9-06C7-4285-A96F-65065EC2523D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E6BFF9-06C7-4285-A96F-65065EC2523D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E6BFF9-06C7-4285-A96F-65065EC2523D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E6BFF9-06C7-4285-A96F-65065EC2523D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5C1AE12-7001-494E-9B20-4B272C86373F}
+	EndGlobalSection
+EndGlobal

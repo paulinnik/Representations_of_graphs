@@ -1,0 +1,7 @@
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Массив ребер графа\Массив ребер графа\bin\Debug\Массив ребер графа.exe.config
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Массив ребер графа\Массив ребер графа\bin\Debug\Массив ребер графа.exe
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Массив ребер графа\Массив ребер графа\bin\Debug\Массив ребер графа.pdb
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Массив ребер графа\Массив ребер графа\obj\Debug\Массив ребер графа.csproj.AssemblyReference.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Массив ребер графа\Массив ребер графа\obj\Debug\Массив ребер графа.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Массив ребер графа\Массив ребер графа\obj\Debug\Массив ребер графа.exe
+C:\Users\pauli\OneDrive\Рабочий стол\Уник\combinatorics\Массив ребер графа\Массив ребер графа\obj\Debug\Массив ребер графа.pdb
